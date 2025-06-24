@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devidutta Das</h1>
 <h3 align="center"></h3><br><h3>I am from India. I am learning now</h3>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1PTyAWpYvVuGnI23Lujc0R&ust=1750869092629000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCkv-S9io4DFQAAAAAdAAAAABAK'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devidutta3&label=Profile%20views&color=0e75b6&style=flat" alt="devidutta3" /> </p>
 
